@@ -1,0 +1,19 @@
+.signup-dob{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.signup-dob .input-box{
+    width: 30% !important;
+}
+
+.signup-switch{
+    cursor: pointer;
+    color: rgb(22 163 74);
+    font-size: 15px;
+    font-weight: 500;
+}
+.signup-top{
+    margin-bottom: 20px;
+}
